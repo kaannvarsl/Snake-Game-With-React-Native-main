@@ -11,4 +11,6 @@ Snake game built with React Native and TypeScript
 
 ## Screenshot
 
-<img src="Screenshot_1678979225.png" width="48">
+![Uygulama Ekran Görüntüsü](https://github.com/kaannvarsl/Snake-Game-With-React-Native-main/blob/master/assets/Screenshot_1678979225.png?raw=true)
+
+![Uygulama Ekran Görüntüsü](https://github.com/kaannvarsl/Snake-Game-With-React-Native-main/blob/master/assets/Screenshot_1678979250.png?raw=true)
